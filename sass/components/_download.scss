@@ -1,0 +1,16 @@
+.download{
+  padding: 60px 0;
+  text-align: center;
+  p {
+    font-size: $text;
+    color: $color-text;
+    margin: 0 auto;
+    max-width: 615px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .btn{
+    border-radius: 25px;
+    font-size: 13px;
+  }
+}
