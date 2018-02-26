@@ -1,20 +1,20 @@
 // fonts
 @font-face {
-    font-family: "Poppins";
-    src: local(Poppins),
-        url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf"),
-        url("../fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+    font-family: "Open Sans";
+    src: local(OpenSans),
+        url("../fonts/OpenSans/OpenSans-Regular.ttf") format("ttf"),
+        url("../fonts/OpenSans/OpenSans-Regular.ttf") format("ttf");
     font-weight: 400;
 }
 @font-face {
-    font-family: "Poppins";
-    src: local(Poppins),
-        url("../fonts/Poppins/Poppins-Light.ttf") format("ttf"),
-        url("../fonts/Poppins/Poppins-Light.ttf") format("ttf");
+    font-family: "Open Sans";
+    src: local(OpenSans),
+        url("../fonts/OpenSans/OpenSansLight.ttf") format("ttf"),
+        url("../fonts/OpenSans/OpenSans-Light.ttf") format("ttf");
     font-weight: 300;
 }
 // body
 body, html{
-  font-family:'Poppins';
+  font-family:'Open Sans';
   height: 100%;
 }

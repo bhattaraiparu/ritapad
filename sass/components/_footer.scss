@@ -4,8 +4,9 @@ footer{
 
   .btn{
     font-size: $text;
-    padding: 0 10px;
-    border-radius: 4px;
+    padding: 0 14px;
+    background: #008080;
+    border-radius: 25px;
   }
   h6{
     font-size: $sub-title;
@@ -38,7 +39,7 @@ i{
     }
   }
   .copy-right{
-    border-top: 1px solid #999;
+    border-top: 1px solid #d7d2d2;
     padding: 20px 0;
 .right{
   text-align: right;
@@ -64,14 +65,15 @@ i{
   right: 40px;
   bottom: 40px;
   line-height: 40px;
-  visibility: hidden;
+  opacity: 0;
   text-align: center;
+  transition: all 0.4s ease-in-out;
   &.show{
-    visibility: visible;
+    opacity: 1;
   }
   i{
     color: #fff;
-    font-size: 30px;
+    font-size: 24px;
     padding: 0;
     line-height: 40px;
   }
