@@ -58,3 +58,11 @@
   });
 
    AOS.init();
+
+   // $('#textarea1').val('New Text');
+   
+ $('#textarea1').trigger('autoresize');
+
+ $(document).ready(function() {
+   $('select').material_select();
+ });
