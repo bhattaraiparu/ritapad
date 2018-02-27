@@ -1,20 +1,25 @@
-// fonts
-@font-face {
-    font-family: "Open Sans";
-    src: local(OpenSans),
-        url("../fonts/OpenSans/OpenSans-Regular.ttf") format("ttf"),
-        url("../fonts/OpenSans/OpenSans-Regular.ttf") format("ttf");
-    font-weight: 400;
-}
-@font-face {
-    font-family: "Open Sans";
-    src: local(OpenSans),
-        url("../fonts/OpenSans/OpenSansLight.ttf") format("ttf"),
-        url("../fonts/OpenSans/OpenSans-Light.ttf") format("ttf");
-    font-weight: 300;
-}
+
 // body
 body, html{
-  font-family:'Open Sans';
+  font-family: 'Open Sans', sans-serif;
   height: 100%;
+}
+#sidenav-overlay{
+  z-index: 9;
+}
+
+
+@media only screen and (min-width: 993px){
+  .container{
+    width: 80%;
+  }
+}
+
+.sub-title{
+  font-size: $sub-title;
+  color: $title;
+}
+.text{
+  font-size: $text;
+  color: $color-text;
 }

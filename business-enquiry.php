@@ -4,7 +4,7 @@
   <div class="row">
     <div class="col s12">
     <h3>Business Enquiry</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+    <p>Please enter your business enquiry and contact details in the fields below.</p>
     </div>
   </div>
 </div>
