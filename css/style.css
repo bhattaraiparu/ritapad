@@ -7128,6 +7128,22 @@ footer {
       display: flex;
       flex-flow: column-reverse; } }
 
+.video .single {
+  box-shadow: 2px 6px 50px rgba(0, 0, 0, 0.1); }
+  .video .single .title {
+    padding: 30px 25px 15px;
+    text-align: center;
+    background-color: #fff;
+    min-height: 118px; }
+    @media (max-width: 600px) {
+      .video .single .title {
+        margin-bottom: 20px; } }
+    .video .single .title h3 {
+      font-size: 18px;
+      color: #333;
+      margin: 0;
+      line-height: 24px; }
+
 .company-profile .side-bar {
   padding: 20px; }
   .company-profile .side-bar .single h3 {

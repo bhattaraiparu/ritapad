@@ -34,7 +34,7 @@
             <span class="icon-inner">
 
             </span>
-            <i class="material-icons">desktop_mac</i>
+          <i class="material-icons">print</i>
             </span>
             <div class="description">
               <h3>Pad Printing Solutions</h3>
@@ -48,7 +48,7 @@
             <span class="icon-inner">
 
             </span>
-            <i class="material-icons">add_shopping_cart</i>
+          <i class="material-icons">camera_enhance</i>
             </span>
             <div class="description">
               <h3>Laser making solutions</h3>
@@ -62,7 +62,7 @@
             <span class="icon-inner">
 
             </span>
-            <i class="material-icons">apps</i>
+            <i class="material-icons">markunread_mailbox</i>
             </span>
             <div class="description">
               <h3>Digital printing solutions</h3>
@@ -125,6 +125,52 @@
             <h3>Laser Application</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt </p>
           </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="video">
+    <div class="container">
+      <div class="row">
+        <div class="col s12">
+          <div class="section-title" data-aos="fade-up">
+            <h4>Ritapad Videos</h4>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col m4 s12">
+          <div class="single">
+          <div class="video-container">
+       <iframe width="853" height="480" src="https://www.youtube.com/embed/wzwrDaY302c?1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+     </div>
+     <div class="title">
+       <h3>Cone Printing based on MTM 100 Machine</h3>
+     </div>
+      </div>
+        </div>
+        <div class="col m4 s12">
+          <div class="single">
+          <div class="video-container">
+       <iframe width="853" height="480" src="https://www.youtube.com/embed/AG7JRBpRAEg?1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+     </div>
+
+     <div class="title">
+       <h3>Bottle Cap Printing Verical Rotary MRV 100 Print on Periphery of Ropp Cap</h3>
+     </div>
+      </div>
+        </div>
+        <div class="col m4 s12">
+          <div class="single">
+          <div class="video-container">
+       <iframe width="853" height="480" src="https://www.youtube.com/embed/kImC1_A-n7I?1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+     </div>
+
+     <div class="title">
+       <h3>Bottle Cap Printing Horizontal Rotary MRV 60 Print on Top of Ropp Cap</h3>
+     </div>
+      </div>
         </div>
       </div>
     </div>
