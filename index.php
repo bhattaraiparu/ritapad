@@ -9,7 +9,7 @@
               <a class="waves-effect waves-light btn " href="">Business Enquiry</a>
             </div>
             <div class="image">
-              <img class="responsive-img" src="images/machine1.png" alt="machine1">
+              <img class="responsive-img" src="images/intro-img.png" alt="intro-img">
             </div>
           </div>
         </div>

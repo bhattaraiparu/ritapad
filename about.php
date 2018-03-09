@@ -4,7 +4,7 @@
   <div class="row">
     <div class="col s12">
     <h3>About us</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+    <p>Largest manufacturer of pad printing machines in India </p>
     </div>
   </div>
 </div>
@@ -13,38 +13,7 @@
   <div class="container">
     <div class="row page-content">
 <div class="col m4 s12">
-  <div class="side-bar card">
-    <div class="single">
-      <h3>Pad Printing Solutions</h3>
-      <ul>
-        <li><a href="">Introduction to Pad Printing</a></li>
-        <li><a href="">Product Line</a></li>
-        <li><a href="">Demo</a></li>
-        <li><a href="">Machine Solution</a></li>
-        <li><a href="">Accessories</a></li>
-        <li><a href="">Pad printing Solution</a></li>
-        <li><a href="">Consumables</a></li>
-      </ul>
-    </div>
-    <div class="single">
-      <h3>Laser Making Solutions</h3>
-      <ul>
-        <li><a href="">Product Line</a></li>
-        <li><a href="">Laser Technologies</a></li>
-        <li><a href="">Laser Applications</a></li>
-        <li><a href="">Laser Accessories</a></li>
-
-      </ul>
-    </div>
-    <div class="single">
-      <h3>Digital Printing Solutions</h3>
-      <ul>
-        <li><a href="">Introduction to Digital Printing </a></li>
-        <li><a href="">Product Line</a></li>
-
-      </ul>
-    </div>
-  </div>
+<?php include("includes/sidebar.php") ?>
 </div>
 <div class="col m8 s12">
   <div class="content">

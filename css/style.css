@@ -6927,7 +6927,7 @@ header {
   .banner .image {
     text-align: center; }
     .banner .image img {
-      max-width: 350px;
+      max-width: 300px;
       display: inline-block; }
       @media (max-width: 992px) {
         .banner .image img {
@@ -7166,11 +7166,12 @@ footer {
     color: #666;
     margin-bottom: 7px; }
 
-.business-enquiry {
-  background: #fcfcfc; }
-  .business-enquiry .row {
+.form-wraper {
+  background: #fcfcfc;
+  overflow-y: visible; }
+  .form-wraper .row {
     margin-bottom: 0; }
-  .business-enquiry .contact {
+  .form-wraper .contact {
     background: #fff;
     overflow: auto;
     padding: 40px 15px;
@@ -7179,7 +7180,15 @@ footer {
     position: relative;
     z-index: 9;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); }
-    .business-enquiry .contact input[type=text], .business-enquiry .contact [type=email], .business-enquiry .contact textarea {
+    .form-wraper .contact input[type=text], .form-wraper .contact [type=email], .form-wraper .contact textarea {
       border-bottom: 1px solid #f0f0f0; }
+  .form-wraper .btn, .form-wraper .btn-large {
+    font-size: 13px;
+    border-radius: 25px;
+    margin-top: 25px;
+    background: #008080;
+    text-align: center; }
+    .form-wraper .btn:first-child, .form-wraper .btn-large:first-child {
+      margin-right: 20px; }
 
 /*# sourceMappingURL=style.css.map */
