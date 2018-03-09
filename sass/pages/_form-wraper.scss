@@ -1,5 +1,6 @@
-.business-enquiry{
+.form-wraper{
   background: #fcfcfc;
+  overflow-y: visible;
   .row{
     margin-bottom: 0;
   }
@@ -16,5 +17,15 @@ box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 
 input[type=text], [type=email], textarea{
   border-bottom: 1px solid $color-grey;
 }
+  }
+  .btn{
+    font-size: 13px;
+    border-radius: 25px;
+    margin-top: 25px;
+    background: #008080;
+    text-align: center;
+    &:first-child{
+      margin-right: 20px;
+    }
   }
 }

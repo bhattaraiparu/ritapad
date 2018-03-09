@@ -7,10 +7,10 @@
     <p>Please enter your business enquiry and contact details in the fields below.</p>
     </div>
   </div>
-</div>
+</div>\
 </section>
 
-<section class="business-enquiry">
+<section class="form-wraper">
 <div class="container">
   <div class="row">
     <form class="contact">
@@ -272,6 +272,9 @@
        <div class="input-field col s12">
          <textarea id="textarea1" class="materialize-textarea"></textarea>
          <label for="textarea1">Enquiry</label>
+       </div>
+       <div class="input-field col 12">
+         <button class="btn" type="button" value="submit">Send</button>
        </div>
 
     </form>
