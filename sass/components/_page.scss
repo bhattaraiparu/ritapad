@@ -6,4 +6,38 @@
       flex-flow: column-reverse;
     }
   }
+  .content{
+    ul{
+      column-count: 2;
+      @media(max-width: 600px){
+        column-count: 1;
+      }
+      li{
+        font-size: $text;
+        color: $color-text;
+        margin-bottom: 7px;
+      }
+    }
+    .card{
+    .card-image.overlay{
+      &::after{
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.5);
+      }
+      .card-title{
+        z-index: 9999;
+      }
+    }
+    .card-action{
+      a{
+        font-size: 14px;
+      }
+    }
+  }
+}
 }

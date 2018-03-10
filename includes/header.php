@@ -18,18 +18,18 @@
       <div class="row">
         <nav>
           <div class="nav-wrapper">
-            <a href="index.html" class="brand-logo"><img src="images/logo2.svg" alt="logo2"></a>
+            <a href="index.php" class="brand-logo"><img src="images/logo.svg" alt="logo"></a>
             <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
-              <li><a href="#">Company Profile</a></li>
-              <li><a href="#">Products</a></li>
+              <li><a href="about.php">Company Profile</a></li>
+              <li><a href="products.php">Products</a></li>
               <li><a href="#">Download</a></li>
               <li><a href="#">Trouble Shooting</a></li>
               <li><a href="#">Contact us</a></li>
             </ul>
             <ul class="side-nav" id="mobile-demo">
-              <li><a href="#">Company Profile</a></li>
-              <li><a href="#">Products</a></li>
+              <li><a href="about.php">Company Profile</a></li>
+              <li><a href="products.php">Products</a></li>
               <li><a href="#">Download</a></li>
               <li><a href="#">Trouble Shooting</a></li>
               <li><a href="#">Contact us</a></li>
