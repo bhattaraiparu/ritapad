@@ -4,7 +4,6 @@
   <div class="row">
     <div class="col s12">
     <h3>Career</h3>
-    <p>Please enter your business enquiry and contact details in the fields below.</p>
     </div>
   </div>
 </div>

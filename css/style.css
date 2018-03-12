@@ -6847,11 +6847,15 @@ body, html {
     width: 80%; } }
 .sub-title {
   font-size: 18px;
-  color: 30px; }
+  color: 30px;
+  text-transform: uppercase; }
 
 .text {
   font-size: 14px;
   color: #666; }
+
+img {
+  max-width: 100%; }
 
 .logo-menu {
   top: 0;
@@ -7127,6 +7131,34 @@ footer {
     .page .page-content {
       display: flex;
       flex-flow: column-reverse; } }
+  .page .content ul.column {
+    column-count: 2; }
+    @media (max-width: 600px) {
+      .page .content ul.column {
+        column-count: 1; } }
+    .page .content ul.column li {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 7px; }
+  .page .content .card .card-image.overlay::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5); }
+  .page .content .card .card-image.overlay .card-title {
+    z-index: 9999;
+    font-size: 18px; }
+  .page .content .card .card-action a {
+    font-size: 12px; }
+  .page .content ul.collapsible .collapsible-body {
+    padding: 0; }
+    .page .content ul.collapsible .collapsible-body td {
+      padding: 10px 15px; }
+      .page .content ul.collapsible .collapsible-body td:first-child {
+        min-width: 120px; }
 
 .video .single {
   box-shadow: 2px 6px 50px rgba(0, 0, 0, 0.1); }
@@ -7144,27 +7176,18 @@ footer {
       margin: 0;
       line-height: 24px; }
 
-.company-profile .side-bar {
+.side-bar {
   padding: 20px; }
-  .company-profile .side-bar .single h3 {
+  .side-bar .single h3 {
     font-size: 18px;
     color: #333; }
-  .company-profile .side-bar .single ul li {
+  .side-bar .single ul li {
     padding: 6px 0; }
-    .company-profile .side-bar .single ul li a {
+    .side-bar .single ul li a {
       color: #666;
       font-size: 14px; }
-      .company-profile .side-bar .single ul li a:hover {
+      .side-bar .single ul li a:hover {
         color: #008080; }
-.company-profile .content ul {
-  column-count: 2; }
-  @media (max-width: 600px) {
-    .company-profile .content ul {
-      column-count: 1; } }
-  .company-profile .content ul li {
-    font-size: 14px;
-    color: #666;
-    margin-bottom: 7px; }
 
 .form-wraper {
   background: #fcfcfc;

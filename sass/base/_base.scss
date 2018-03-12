@@ -18,8 +18,12 @@ body, html{
 .sub-title{
   font-size: $sub-title;
   color: $title;
+  text-transform: uppercase;
 }
 .text{
   font-size: $text;
   color: $color-text;
+}
+img{
+  max-width: 100%;
 }

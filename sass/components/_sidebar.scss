@@ -1,0 +1,26 @@
+
+  
+    .side-bar{
+      padding: 20px;
+      .single{
+        h3{
+          font-size: $sub-title;
+          color:$color-title;
+
+        }
+        ul{
+          li{
+            padding: 6px 0;
+
+            a{
+              color: $color-text;
+              font-size: $text;
+              &:hover{
+                color:$primary-color;
+              }
+            }
+          }
+        }
+
+      }
+    }

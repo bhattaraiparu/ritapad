@@ -6,7 +6,7 @@
           <div class="col s12" data-aos="fade-up">
             <div class="intro">
               <h3>The largest manufacturer of pad printing machines in India and has a formidable 50% market share</h3>
-              <a class="waves-effect waves-light btn " href="">Business Enquiry</a>
+              <a class="waves-effect waves-light btn " href="business-enquiry.php">Business Enquiry</a>
             </div>
             <div class="image">
               <img class="responsive-img" src="images/intro-img.png" alt="intro-img">
@@ -185,7 +185,7 @@
           </div>
           <div data-aos="fade-up">
           <p>Download various literature to know about specific features of our products. All available literature can be found inside download page</p>
-          <a class="waves-effect waves-light btn" href="">Download</a>
+          <a class="waves-effect waves-light btn" href="download.php">Download</a>
           </div>
         </div>
       </div>
