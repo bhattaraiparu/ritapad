@@ -7,7 +7,7 @@
     }
   }
   .content{
-    ul{
+    ul.column{
       column-count: 2;
       @media(max-width: 600px){
         column-count: 1;
@@ -31,11 +31,23 @@
       }
       .card-title{
         z-index: 9999;
+        font-size: 18px;
       }
     }
     .card-action{
       a{
-        font-size: 14px;
+        font-size: 12px;
+      }
+    }
+  }
+  ul.collapsible{
+    .collapsible-body{
+      padding: 0;
+      td{
+        padding: 10px 15px;
+        &:first-child{
+          min-width: 120px;
+        }
       }
     }
   }

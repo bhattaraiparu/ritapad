@@ -48,7 +48,7 @@
                 <span class="card-title">Consumables</span>
             </div>
             <div class="card-action">
-              <a href="pdf/consumables1.pdf" target="_blank">consumabless</a>
+              <a href="pdf/consumables1.pdf" target="_blank">pdf</a>
               <a href="#">consumabless</a>
             </div>
           </div>

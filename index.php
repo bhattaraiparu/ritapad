@@ -185,7 +185,7 @@
           </div>
           <div data-aos="fade-up">
           <p>Download various literature to know about specific features of our products. All available literature can be found inside download page</p>
-          <a class="waves-effect waves-light btn" href="">Download</a>
+          <a class="waves-effect waves-light btn" href="download.php">Download</a>
           </div>
         </div>
       </div>

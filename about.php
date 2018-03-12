@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row">
     <div class="col s12">
-    <h3>About us</h3>
+    <h3>Company Profile</h3>
     <p>Largest manufacturer of pad printing machines in India </p>
     </div>
   </div>
@@ -41,7 +41,7 @@
     <h3 class="sub-title">R & D</h3>
     <p class="text">A significant part of the company's revenues are ploughed back in the form of research & development. this has lead to increased product evolution & development, new technology & process development, eventually leading to a better, more reliable and cost effective offering to the end-use</p>
     <h3 class="sub-title">PARTIAL LIST OF CUSTOMERS</h3>
-  <ul>
+  <ul class="column">
     <li>Honeywell International (I) Ltd.</li>
     <li>Romsons Scientific</li>
     <li>ROOTS Auto. Products</li>
