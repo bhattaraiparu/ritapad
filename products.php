@@ -21,7 +21,7 @@
         <div class="image card ">
           <div class="card-content">
           <figure>
-            <img class="materialboxed" src="images/products-img.jpg">
+            <img class="materialboxed" src="images/products-img.png">
             <figcaption>MTM 60 GF</figcaption>
           </figure>
         </div>
@@ -31,7 +31,7 @@
         <div class="image card ">
           <div class="card-content">
           <figure>
-            <img class="materialboxed" style="max-width:193px;" src="images/products-img1.jpg">
+            <img class="materialboxed" src="images/products-img1.png">
             <figcaption>MTM 150</figcaption>
           </figure>
         </div>
