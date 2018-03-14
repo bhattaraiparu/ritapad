@@ -2,8 +2,8 @@
   <div class="single">
     <h3>Pad Printing Solutions</h3>
     <ul>
-      <li><a href="">Introduction to Pad Printing</a></li>
-      <li><a href="">Product Line</a></li>
+      <li><a href="products.php">Introduction to Pad Printing</a></li>
+      <li><a href="productline.php">Product Line</a></li>
       <li><a href="">Demo</a></li>
       <li><a href="">Machine Solution</a></li>
       <li><a href="">Accessories</a></li>
