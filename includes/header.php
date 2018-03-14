@@ -22,14 +22,14 @@
             <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
               <li><a href="about.php">Company Profile</a></li>
-              <li><a href="products.php">Products</a></li>
+              <li><a href="productline.php">Products</a></li>
               <li><a href="download.php">Download</a></li>
               <li><a href="trouble-shooting.php">Trouble Shooting</a></li>
               <li><a href="#">Contact us</a></li>
             </ul>
             <ul class="side-nav" id="mobile-demo">
               <li><a href="about.php">Company Profile</a></li>
-              <li><a href="products.php">Products</a></li>
+              <li><a href="productline.php">Products</a></li>
               <li><a href="download.php">Download</a></li>
               <li><a href="trouble-shooting.php">Trouble Shooting</a></li>
               <li><a href="#">Contact us</a></li>

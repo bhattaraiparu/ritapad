@@ -60,5 +60,11 @@ td{
     max-width: 200px;
   }
 }
+.decimal{
+  list-style-type: decimal;
+  li{
+    list-style-type: decimal;
+  }
+}
 }
 }
