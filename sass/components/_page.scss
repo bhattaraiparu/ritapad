@@ -7,6 +7,7 @@
     }
   }
   .content{
+    padding: 20px 15px;
     ul.column{
       column-count: 2;
       @media(max-width: 600px){
@@ -66,5 +67,9 @@ td{
     list-style-type: decimal;
   }
 }
+
+}
+.content.grey-light{
+  background-color:#FBFCFB;
 }
 }

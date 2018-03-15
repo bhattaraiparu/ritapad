@@ -4,8 +4,8 @@
     <ul>
       <li><a href="products.php">Introduction to Pad Printing</a></li>
       <li><a href="productline.php">Product Line</a></li>
-      <li><a href="">Demo</a></li>
-      <li><a href="">Machine Solution</a></li>
+      <li><a href="demo.php">Demo</a></li>
+      <li><a href="machine-selection.php">Machine Selection</a></li>
       <li><a href="">Accessories</a></li>
       <li><a href="">Pad printing Solution</a></li>
       <li><a href="">Consumables</a></li>
