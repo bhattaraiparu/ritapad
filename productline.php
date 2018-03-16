@@ -225,7 +225,7 @@ obsolete in their area of operation.</p>
       <!-- Modal Structure -->
       <div id="modal3" class="modal">
       <div class="modal-content">
-      <h4>MTM-100GF</h4>
+      <h4>MTM-150 D- GF</h4>
       <img class="responsive-img" src="images/Mtm150_1.png" alt="Mtm150_1">
       <table>
        <tbody>
@@ -461,7 +461,7 @@ obsolete in their area of operation.</p>
          </tr>
          <tr>
            <td>Electrical connection:</td>
-           <td>1.0 m 3 /hr</td>
+           <td>220 V, 50 Hz.</td>
          </tr>
          <tr>
            <td>Current consumption:</td>
@@ -1036,7 +1036,7 @@ obsolete in their area of operation.</p>
   <tbody>
     <tr>
       <td>
-        <a class="modal-trigger" href="#modal12">MLM-100D</a>
+        <a class="modal-trigger" href="modal12">MLM-100D</a>
 
       <!-- Modal Structure -->
       <div id="modal12" class="modal">
@@ -1129,6 +1129,7 @@ obsolete in their area of operation.</p>
       <div id="modal13" class="modal">
       <div class="modal-content">
       <h4>MLM-210D</h4>
+      <img class="responsive-img" src="images/mlm_210_d.gif" alt="mlm_210_d">
       <table>
        <tbody>
          <tr>
@@ -1678,11 +1679,11 @@ obsolete in their area of operation.</p>
        <tbody>
          <tr>
            <td>Cliche size:	</td>
-           <td>180 x 150 x 10 mm</td>
+           <td>210 x 100 x 10 mm</td>
          </tr>
          <tr>
            <td>Maximum printing image diameter:	</td>
-           <td>125mm</td>
+           <td>85mm</td>
          </tr>
          <tr>
            <td>Printing capacity:	</td>
@@ -1855,7 +1856,7 @@ obsolete in their area of operation.</p>
       <td>1000</td>
       <td>1.43 m 3 /hr</td>
       <td>22W</td>
-      <td>1100 x1550 x 550mm</td>
+      <td>110 x1550 x 550mm</td>
       <td>230 kg</td>
     </tr>
 
