@@ -548,7 +548,7 @@
           <td>double</td>
           <td>closed</td>
           <td>
-            <a class="modal-trigger" href="modal7">MLM-100DGF</a>
+            <a class="modal-trigger" href="#modal7">MLM-100DGF</a>
 
             <!-- Modal Structure -->
             <div id="modal7" class="modal">
@@ -634,7 +634,7 @@
           <td>three</td>
           <td>open</td>
           <td>
-            <a class="modal-trigger" href="modal8">MLM-100 T</a>
+            <a class="modal-trigger" href="#modal8">MLM-100 T</a>
 
           <!-- Modal Structure -->
           <div id="modal8" class="modal">
@@ -720,7 +720,7 @@
           <td>three</td>
           <td>closed</td>
           <td>
-            <a class="modal-trigger" href="modal9">MLM-100 T-GF</a>
+            <a class="modal-trigger" href="#modal9">MLM-100 T-GF</a>
 
           <!-- Modal Structure -->
           <div id="modal9" class="modal">
@@ -803,12 +803,1021 @@
         <td>85mm</td>
         <td>four</td>
         <td>open</td>
-        <td>MLM 100F
+        <td>
+          <a class="modal-trigger" href="#modal10">MLM-100 F</a>
 
+        <!-- Modal Structure -->
+        <div id="modal10" class="modal">
+        <div class="modal-content">
+        <h4>MLM-100 F</h4>
+        <img class="responsive-img" src="images/mlm-100-f.gif" alt="mlm-100-f">
+        <table>
+         <tbody>
+           <tr>
+             <td>Cliche size:	</td>
+             <td>100 x 100 x 10 mm</td>
+           </tr>
+           <tr>
+             <td>Maximum printing image diameter:	</td>
+             <td>85mm</td>
+           </tr>
+           <tr>
+             <td>Printing capacity:	</td>
+             <td>1000 strokes/ hr</td>
+           </tr>
+           <tr>
+             <td>Hight of object max:</td>
+             <td>90 mm</td>
+           </tr>
+           <tr>
+             <td>Tampon stroke max:</td>
+             <td>75 mm</td>
+           </tr>
+           <tr>
+             <td>Printing force:</td>
+             <td>829 N</td>
+           </tr>
+           <tr>
+             <td>Setting:</td>
+             <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+           </tr>
+           <tr>
+             <td>Control:</td>
+             <td>Electro-Pneumatic</td>
+           </tr>
+           <tr>
+             <td>Control Voltage:</td>
+             <td>24V</td>
+           </tr>
+           <tr>
+             <td>Electrical connection:</td>
+             <td>220 V, 50 Hz.</td>
+           </tr>
+           <tr>
+             <td>Current consumption:</td>
+             <td>22W</td>
+           </tr>
+           <tr>
+             <td>Drive:</td>
+             <td>Pneumatic</td>
+           </tr>
+           <tr>
+             <td>Pneumatic connection:</td>
+             <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+           </tr>
+           <tr>
+             <td>Air consumption max:</td>
+             <td>1.43 m 3 / hr.</td>
+           </tr>
+           <tr>
+             <td>Dimension (LxHxW):</td>
+             <td>110 x 1550 x 550 mm</</td>
+           </tr>
+           <tr>
+             <td>Weight(Approx):</td>
+             <td>230kg</td>
+           </tr>
+         </tbody>
+        </table>
+        </div>
+        </div>
         </td>
       </tr>
 
-      
+<tr>
+  <td>11.</td>
+  <td>85mm</td>
+  <td>four</td>
+  <td>closed</td>
+  <td>
+    <a class="modal-trigger" href="#modal11">MLM-100 F-GF</a>
+
+  <!-- Modal Structure -->
+  <div id="modal11" class="modal">
+  <div class="modal-content">
+  <h4>MLM-100 F-GF</h4>
+  <img class="responsive-img" src="images/mlm-100-f.gif" alt="mlm-100-f">
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>210 x 100 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>85mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>90 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>22W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.43 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1100 x 1550 x 1000 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>230kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>12.</td>
+  <td>125mm</td>
+  <td>single</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal2">MTM-150</a>
+
+  <!-- Modal Structure -->
+  <div id="modal2" class="modal">
+  <div class="modal-content">
+  <h4>MTM-150</h4>
+  <img class="responsive-img" src="images/mtm_150.png" alt="mtm_150.png">
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:</td>
+       <td>180 x 150 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:</td>
+       <td>125mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>120 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>125 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>1470 N</td>
+     </tr>
+     <tr>
+       <td>Setting</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>15W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.00 m 3 /hr</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>640 x 750 x 340mm</td>
+     </tr>
+     <tr>
+       <td>Weight (Approx):</td>
+       <td>90kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>13.</td>
+  <td>125mm</td>
+  <td>three</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal13">MLM-150 T</a>
+
+  <!-- Modal Structure -->
+  <div id="modal13" class="modal">
+  <div class="modal-content">
+  <h4>MLM-150 T</h4>
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>180 x 150 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>125mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>90 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>22W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.43 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1100 x 1550 x 550 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>230kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>14.</td>
+  <td>350x135mm</td>
+  <td>single</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal14">MLM-400S</a>
+
+  <!-- Modal Structure -->
+  <div id="modal14" class="modal">
+  <div class="modal-content">
+  <h4>MLM-400S</h4>
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>400 x 200 x 15 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>350x135mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>150 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>20W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>	1.03 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1050 x 1550 x 550 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>200kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+</td>
+</tr>
+
+<tr>
+  <td>15.</td>
+  <td>150x100mm</td>
+  <td>single</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal5">MLM-180 S</a>
+
+    <!-- Modal Structure -->
+    <div id="modal5" class="modal">
+    <div class="modal-content">
+    <h4>MLM-180 S</h4>
+    <table>
+    <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>180 x 150 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>150x100mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>150 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>	75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch</td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>20W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.03 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1550 x 1550 x 550 mm </</td>
+     </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td>16.</td>
+  <td>180x70mm</td>
+  <td>single</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal6">MLM-210S</a>
+
+  <!-- Modal Structure -->
+  <div id="modal6" class="modal">
+  <div class="modal-content">
+  <h4>MLM-210S</h4>
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>210 x 100 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>180x70mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>150 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>	Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>20W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>	1.03 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1550 x 1550 x 550 mm </</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>200kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>17.</td>
+  <td>470x100mm</td>
+  <td>single</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal17">MLM-520S</a>
+
+  <!-- Modal Structure -->
+  <div id="modal17" class="modal">
+  <div class="modal-content">
+  <h4>MLM-520S</h4>
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>520 x 150 x 15 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>470x100mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>150 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>20W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>	1.03 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1050 x 1550 x 550 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>200kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>18.</td>
+  <td>180x70mm</td>
+  <td>double</td>
+  <td>open</td>
+  <td>MLM 210D
+    <a class="modal-trigger" href="#modal18">MLM-210D</a>
+
+  <!-- Modal Structure -->
+  <div id="modal18" class="modal">
+  <div class="modal-content">
+  <h4>MLM-210D</h4>
+  <img class="responsive-img" src="images/mlm_210_d.gif" alt="mlm_210_d">
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>210 x 100 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>180x70mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>150 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>20W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.03 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1050 x 1550 x 550 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>200kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>19.</td>
+  <td>150x100mm</td>
+  <td>single</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal19">MLM-180D</a>
+
+  <!-- Modal Structure -->
+  <div id="modal19" class="modal">
+  <div class="modal-content">
+  <h4>MLM-180D</h4>
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>180 x 150 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>150x120mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>150 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>20W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.03 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1050 x 1550 x 550 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>200kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>20.</td>
+  <td>180x70mm</td>
+  <td>three</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal20">MLM-100 T-L</a>
+
+  <!-- Modal Structure -->
+  <div id="modal20" class="modal">
+  <div class="modal-content">
+  <h4>MLM-100 T-L</h4>
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>210 x 100 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>180x70 mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>90 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>22W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.43 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1100 x 1550 x 1000 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>230kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
+
+<tr>
+  <td>21.</td>
+  <td>75x110mm</td>
+  <td>four</td>
+  <td>open</td>
+  <td>
+    <a class="modal-trigger" href="#modal21">MLM-100 FL</a>
+
+  <!-- Modal Structure -->
+  <div id="modal21" class="modal">
+  <div class="modal-content">
+  <h4>MLM-100 FL</h4>
+  <img class="responsive-img" src="images/mlm_100_f-l.gif" alt="mlm_100_f-l">
+  <table>
+   <tbody>
+     <tr>
+       <td>Cliche size:	</td>
+       <td>100 x 210 x 10 mm</td>
+     </tr>
+     <tr>
+       <td>Maximum printing image diameter:	</td>
+       <td>75x110 mm</td>
+     </tr>
+     <tr>
+       <td>Printing capacity:	</td>
+       <td>1000 strokes/ hr</td>
+     </tr>
+     <tr>
+       <td>Hight of object max:</td>
+       <td>90 mm</td>
+     </tr>
+     <tr>
+       <td>Tampon stroke max:</td>
+       <td>75 mm</td>
+     </tr>
+     <tr>
+       <td>Printing force:</td>
+       <td>829 N</td>
+     </tr>
+     <tr>
+       <td>Setting:</td>
+       <td>Each working movement can be independently  actuated by push button and mode-selector switch </td>
+     </tr>
+     <tr>
+       <td>Control:</td>
+       <td>Electro-Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Control Voltage:</td>
+       <td>24V</td>
+     </tr>
+     <tr>
+       <td>Electrical connection:</td>
+       <td>220 V, 50 Hz.</td>
+     </tr>
+     <tr>
+       <td>Current consumption:</td>
+       <td>22W</td>
+     </tr>
+     <tr>
+       <td>Drive:</td>
+       <td>Pneumatic</td>
+     </tr>
+     <tr>
+       <td>Pneumatic connection:</td>
+       <td>working pressure 5 - 6 bar nominal width 6mm.</td>
+     </tr>
+     <tr>
+       <td>Air consumption max:</td>
+       <td>1.43 m 3 / hr.</td>
+     </tr>
+     <tr>
+       <td>Dimension (LxHxW):</td>
+       <td>1100 x 1550 x 1000 mm</</td>
+     </tr>
+     <tr>
+       <td>Weight(Approx):</td>
+       <td>230kg</td>
+     </tr>
+   </tbody>
+  </table>
+  </div>
+  </div>
+  </td>
+</tr>
       </tbody>
     </table>
   </div>

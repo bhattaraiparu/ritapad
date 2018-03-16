@@ -6,15 +6,15 @@
       <li><a href="productline.php">Product Line</a></li>
       <li><a href="demo.php">Demo</a></li>
       <li><a href="machine-selection.php">Machine Selection</a></li>
-      <li><a href="">Accessories</a></li>
-      <li><a href="">Pad printing Solution</a></li>
-      <li><a href="">Consumables</a></li>
+      <li><a href="accessories.php">Accessories</a></li>
+      <li><a href="padprinting-application.php">Pad printing Solution</a></li>
+      <li><a href="consumables.php">Consumables</a></li>
     </ul>
   </div>
   <div class="single">
     <h3>Laser Making Solutions</h3>
     <ul>
-      <li><a href="">Product Line</a></li>
+      <li><a href="laser-productline.php">Product Line</a></li>
       <li><a href="">Laser Technologies</a></li>
       <li><a href="">Laser Applications</a></li>
       <li><a href="">Laser Accessories</a></li>

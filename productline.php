@@ -461,7 +461,7 @@ obsolete in their area of operation.</p>
          </tr>
          <tr>
            <td>Electrical connection:</td>
-           <td>1.0 m 3 /hr</td>
+           <td>220 V, 50 Hz.</td>
          </tr>
          <tr>
            <td>Current consumption:</td>
@@ -1129,6 +1129,7 @@ obsolete in their area of operation.</p>
       <div id="modal13" class="modal">
       <div class="modal-content">
       <h4>MLM-210D</h4>
+      <img class="responsive-img" src="images/mlm_210_d.gif" alt="mlm_210_d">
       <table>
        <tbody>
          <tr>
@@ -1297,7 +1298,7 @@ obsolete in their area of operation.</p>
 
     <tr>
       <td>
-        <a class="modal-trigger" href="modal15">MLM-100DGF</a>
+        <a class="modal-trigger" href="#modal15">MLM-100DGF</a>
 
       <!-- Modal Structure -->
       <div id="modal15" class="modal">
@@ -1403,7 +1404,7 @@ obsolete in their area of operation.</p>
   <tbody>
     <tr>
       <td>
-        <a class="modal-trigger" href="modal16">MLM-100 T</a>
+        <a class="modal-trigger" href="#modal16">MLM-100 T</a>
 
       <!-- Modal Structure -->
       <div id="modal16" class="modal">
@@ -1667,7 +1668,7 @@ obsolete in their area of operation.</p>
 
     <tr>
       <td>
-        <a class="modal-trigger" href="modal19">MLM-100 T-GF</a>
+        <a class="modal-trigger" href="#modal19">MLM-100 T-GF</a>
 
       <!-- Modal Structure -->
       <div id="modal19" class="modal">
@@ -1773,7 +1774,7 @@ obsolete in their area of operation.</p>
   <tbody>
     <tr>
       <td>
-        <a class="modal-trigger" href="modal20">MLM-100 F</a>
+        <a class="modal-trigger" href="#modal20">MLM-100 F</a>
 
       <!-- Modal Structure -->
       <div id="modal20" class="modal">
@@ -1855,7 +1856,7 @@ obsolete in their area of operation.</p>
       <td>1000</td>
       <td>1.43 m 3 /hr</td>
       <td>22W</td>
-      <td>1100 x1550 x 550mm</td>
+      <td>110 x1550 x 550mm</td>
       <td>230 kg</td>
     </tr>
 
