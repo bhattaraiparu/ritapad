@@ -6857,6 +6857,9 @@ body, html {
 img {
   max-width: 100%; }
 
+.materialboxed.active {
+  max-width: none; }
+
 .logo-menu {
   top: 0;
   left: 0;
