@@ -68,7 +68,18 @@ td{
     color: #666;
   }
 }
-
+.card{
+  .card-image.round-pad img{
+height: 120px;
+width: auto;
+margin-left: auto;
+margin-right: auto;
+padding-top: 15px;
+  }
+  .card-content.mh-100{
+    min-height: 113px;
+  }
+}
 }
 .content.grey-light{
   background-color:#FBFCFB;

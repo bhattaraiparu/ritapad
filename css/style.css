@@ -6857,6 +6857,11 @@ body, html {
 img {
   max-width: 100%; }
 
+.btn, .btn-large {
+  font-size: 13px;
+  border-radius: 25px;
+  background: #008080; }
+
 .logo-menu {
   top: 0;
   left: 0;
@@ -7172,6 +7177,14 @@ footer {
       .page .content .decimal li {
         list-style-type: disc;
         color: #666; }
+    .page .content .card .card-image.round-pad img {
+      height: 120px;
+      width: auto;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 15px; }
+    .page .content .card .card-content.mh-100 {
+      min-height: 113px; }
   .page .content.grey-light {
     background-color: #FBFCFB; }
 
