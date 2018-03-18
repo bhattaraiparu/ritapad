@@ -80,6 +80,14 @@ padding-top: 15px;
     min-height: 113px;
   }
 }
+
+.flex{
+  display: flex;
+  align-items: center;
+  p{
+    margin-right: 10px;
+  }
+}
 }
 .content.grey-light{
   background-color:#FBFCFB;

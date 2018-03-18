@@ -15,7 +15,7 @@
     <h3>Laser Making Solutions</h3>
     <ul>
       <li><a href="laser-productline.php">Product Line</a></li>
-      <li><a href="">Laser Technologies</a></li>
+      <li><a href="laser-technologies.php">Laser Technologies</a></li>
       <li><a href="">Laser Applications</a></li>
       <li><a href="">Laser Accessories</a></li>
 
