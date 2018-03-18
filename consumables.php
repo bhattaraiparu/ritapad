@@ -35,7 +35,7 @@
   <div class="col l3 m12 s12">
     <h3 class="sub-title">Pads</h3>
     <ul>
-      <li><a href="">Round Pads</a></li>
+      <li><a href="consumable-round-pads.php">Round Pads</a></li>
       <li><a href="">Rectangular Pads </a></li>
       <li><a href="">Square Pads</a></li>
       <li><a href="">Special Pads</a></li>

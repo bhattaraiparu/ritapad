@@ -17,7 +17,7 @@
 <div class="col m8 s12">
   <div class="content">
 <p class="text">
-<a class="modal-trigger" href="#modal1">20 W, Pulsed Fiber Laser</a>
+<a class="modal-trigger btn waves-light" href="#modal1">20 W, Pulsed Fiber Laser</a>
 </p>
 <div id="modal1" class="modal">
   <div class="modal-content">
@@ -77,7 +77,7 @@
   </div>
 </div>
 <p class="text">
-  <a class="modal-trigger" href="#modal2">20 W, Pulsed Fiber Laser</a>
+  <a class="modal-trigger btn" href="#modal2">20 W, Pulsed Fiber Laser</a>
 </p>
 <div id="modal2" class="modal">
   <div class="modal-content">
