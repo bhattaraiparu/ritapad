@@ -16,15 +16,15 @@
     <ul>
       <li><a href="laser-productline.php">Product Line</a></li>
       <li><a href="laser-technologies.php">Laser Technologies</a></li>
-      <li><a href="">Laser Applications</a></li>
-      <li><a href="">Laser Accessories</a></li>
+      <li><a href="laser-applications.php">Laser Applications</a></li>
+      <li><a href="laser-accessories.php">Laser Accessories</a></li>
 
     </ul>
   </div>
   <div class="single">
     <h3>Digital Printing Solutions</h3>
     <ul>
-      <li><a href="">Introduction to Digital Printing </a></li>
+      <li><a href="digital.php">Introduction to Digital Printing </a></li>
       <li><a href="">Product Line</a></li>
 
     </ul>

@@ -88,6 +88,19 @@ padding-top: 15px;
     margin-right: 10px;
   }
 }
+
+.laser-accessories{
+  display: flex;
+  margin-top: 25px;
+  .image{
+    line-height: 0;
+  }
+  .content{
+    h3{
+      margin: 0;
+    }
+  }
+}
 }
 .content.grey-light{
   background-color:#FBFCFB;

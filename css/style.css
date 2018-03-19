@@ -7188,6 +7188,13 @@ footer {
       align-items: center; }
       .page .content .flex p {
         margin-right: 10px; }
+    .page .content .laser-accessories {
+      display: flex;
+      margin-top: 25px; }
+      .page .content .laser-accessories .image {
+        line-height: 0; }
+      .page .content .laser-accessories .content h3 {
+        margin: 0; }
   .page .content.grey-light {
     background-color: #FBFCFB; }
 
