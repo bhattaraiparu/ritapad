@@ -25,7 +25,7 @@
     <h3>Digital Printing Solutions</h3>
     <ul>
       <li><a href="digital.php">Introduction to Digital Printing </a></li>
-      <li><a href="">Product Line</a></li>
+      <li><a href="digitalprinting_productline.php">Product Line</a></li>
 
     </ul>
   </div>

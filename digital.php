@@ -16,7 +16,7 @@
 </div>
 <div class="col m8 s12">
   <div class="content">
-<p class="text">Rita Pad Printing Systems Ltd. is pleased to announce the introduction of the RDM-17S Digital Printing Machine. The RDM 17S Digital Printing Machine represents a new concept in the field of printing, marking and decorating of products utilising a Computer- to- Product technique by using Rita Pad Printing Systems proprietory developed Digital inkjet technology.</p>
+<p class="text">Rita Pad Printing Systems Ltd. is pleased to announce the introduction of the RDM-17S <a href="digitalprinting_productline.php">Digital Printing Machine.</a> The RDM 17S Digital Printing Machine represents a new concept in the field of printing, marking and decorating of products utilising a Computer- to- Product technique by using Rita Pad Printing Systems proprietory developed Digital inkjet technology.</p>
 <p class="text">The machine can print :</p>
 
 <ul class="decimal">

@@ -38,9 +38,9 @@
       </div>
       </div>
     </div>
-        <p class="text">Pad printing is an easy to operate, user friendly advanced technology especially suited to printing on surfaces of any shape, with precise registration and high speed. Printing can be accomplished on surfaces of any textures or composition at a fraction of the time and cost required by other printing methods.</p>
+        <p class="text"><a href="consumables.php">Pad printing</a> is an easy to operate, user friendly advanced technology especially suited to printing on surfaces of any shape, with precise registration and high speed. Printing can be accomplished on surfaces of any textures or composition at a fraction of the time and cost required by other printing methods.</p>
 
-        <p class="text">Our state of the art standard open and sealed ink cup pad printing machines, have a wide range of image capabilites and multi-color configurations. The modular design of Rita Pad Printing Machines facilitates customization to your needs. Take a look at our gallery for some examples of our specialised industrial systems.<br><br>Please see Demo of our MTM 100 Pad Printing Machine.</p>
+        <p class="text">Our state of the art standard open and sealed ink cup <a href="trouble-shooting.php">pad printing machines,</a> have a wide range of image capabilites and multi-color configurations. The modular design of Rita <a href="padprinting-application.php">Pad Printing Machines</a> facilitates customization to your needs. Take a look at our gallery for some examples of our specialised industrial systems.<br><br>Please see Demo of our MTM 100 Pad Printing Machine.</p>
       </div>
     </div>
 </div>
