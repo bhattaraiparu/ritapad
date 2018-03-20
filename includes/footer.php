@@ -8,12 +8,14 @@
       </div>
 
       <div class="col l3 m6 s12">
-        <h6>Services</h6>
+        <h6>Quick Links</h6>
         <ul>
-          <li><a href="">Pad Printing Solutions</a></li>
-          <li><a href="">Laser Making Solutions</a></li>
-          <li><a href="">Laser Making System</a></li>
-          <li><a href="">Digita Printing Solutions</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about.php">Company Profile</a></li>
+          <li><a href="career.php">Career</a></li>
+          <li><a href="download.php">Download</a></li>
+          <li><a href="Products.php">Products</a></li>
+
 
         </ul>
       </div>
@@ -24,7 +26,7 @@
           <li><a href="">Pen Printing Machine</a></li>
           <li><a href="">Printing Machine</a></li>
           <li><a href="">Laser Marking Machine</a></li>
-          <li><a href="">Digital Printing Machine</a></li>
+          <li><a href="all-products.php">ALL PRODUCTS</a></li>
 
         </ul>
       </div>
