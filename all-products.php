@@ -19,18 +19,20 @@
 <p class="text"><a href="scale-printing-machine.php">Scale Printing Machine</a></p>
 <p class="text"><a href="pen-printing-machine.php">Pen Printing Machine</a></p>
 <p class="text"><a href="laser-marking-machine.php">Laser Marking Machine</a></p>
-<p class="text"><a href="">Digital Printing Machine</a></p>
-<p class="text"><a href="">Printing Machine, Laser Application</a></p>
-<p class="text"><a href="">Pad Printing Application</a></p>
-<p class="text"><a href="">Wheel Rim Printing Machine</a></p>
-<p class="text"><a href="">Electrical and Electronics Components Printing Machine</a></p>
-<p class="text"><a href="">Disposable Syringe Printing Machine</a></p>
-<p class="text"><a href="">Bottle Cap Printing Machine</a></p>
-<p class="text"><a href="">Automobile Components Printing Machine</a></p>
-<p class="text"><a href="">Digital Pad Printing, MCB Printing Machine</a></p>
-<p class="text"><a href="">Pad Printing Accessories and Consumables</a></p>
-<p class="text"><a href="">Multistep Marking Switches</a></p>
-<p class="text"><a href="">Cutting of Solar Cell Panels</a></p>
+<p class="text"><a href="digital-printing-machine.php">Digital Printing Machine</a></p>
+<p class="text"><a href="productline.php">Printing Machine</a></p>
+<p class="text"><a href="laser-applications.php">Laser Application</a></p>
+<p class="text"><a href="padprinting-application.php">Pad Printing Application</a></p>
+<p class="text"><a href="wheel-rim-printing-machine.php">Wheel Rim Printing Machine</a></p>
+<p class="text"><a href="mtm100-gf-rotary-indexing.php">Electrical and Electronics Components Printing Machine</a></p>
+<p class="text"><a href="rotary-pad-printing-machine.php">Disposable Syringe Printing Machine</a></p>
+<p class="text"><a href="automatic-pad-printing-machine-top-cap.php">Bottle Cap Printing Machine</a></p>
+<p class="text"><a href="custom-machines-for-direct-printing-on-automotive-body.php">Automobile Components Printing Machine</a></p>
+<p class="text"><a href="digital-printing-machine.php">Digital Pad Printing</a></p>
+<p class="text"><a href="automatic-pad-printing-machine-mcb.php">MCB Printing Machine</a></p>
+<p class="text"><a href="consumables.php">Pad Printing Accessories and Consumables</a></p>
+<p class="text"><a href="multistep-marking-switches.php">Multistep Marking Switches</a></p>
+<p class="text"><a href="cutting-solar-cell-panels.php">Cutting of Solar Cell Panels</a></p>
   </div>
 </div>
 

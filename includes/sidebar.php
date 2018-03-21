@@ -7,7 +7,7 @@
       <li><a href="demo.php">Demo</a></li>
       <li><a href="machine-selection.php">Machine Selection</a></li>
       <li><a href="accessories.php">Accessories</a></li>
-      <li><a href="padprinting-application.php">Pad printing Solution</a></li>
+      <li><a href="padprinting-application.php">Pad printing Application</a></li>
       <li><a href="consumables.php">Consumables</a></li>
     </ul>
   </div>
