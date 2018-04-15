@@ -13,7 +13,7 @@
           <li><a href="index.php">Home</a></li>
           <li><a href="about.php">Company Profile</a></li>
           <li><a href="career.php">Career</a></li>
-          <li><a href="download.php">Download</a></li>
+          <li><a href="videos.php">Videos</a></li>
           <li><a href="Products.php">Products</a></li>
 
 
