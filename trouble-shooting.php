@@ -16,9 +16,9 @@
 </div>
 <div class="col m8 s12">
   <div class="content">
-  <p class="text">A decisive factor in obtaining a high quality print in the pad printing process is the choice of pads, inks, plates and close cup ring/ Doctor Blades.<br><br>
+  <p class="text">A decisive factor in obtaining a high quality print in the <a href="products.php">pad printing</a> process is the choice of pads, inks, plates and close cup ring/ Doctor Blades.<br><br>
 
-Rita pad has developed over more than 12 years and continue to improve, a complete range of products specially, studies to maximize the performance of Pad Printing machine. Our aim is to solve all component printing problems, doing our best to be worthy of the trust which thousands of our customers has given us over the years.</p>
+Rita pad has developed over more than 12 years and continue to improve, a complete range of products specially, studies to maximize the performance of <a href="padprinting-application.php">Pad Printing machine</a>. Our aim is to solve all component <a href="accessories.php">printing</a> problems, doing our best to be worthy of the trust which thousands of our customers has given us over the years.</p>
 <h3 class="sub-title">Precaution and solution to the problems generally faced during printing</h3>
 
 <ul class="collapsible" data-collapsible="accordion">

@@ -14,18 +14,16 @@
           <li><a href="about.php">Company Profile</a></li>
           <li><a href="career.php">Career</a></li>
           <li><a href="videos.php">Videos</a></li>
-          <li><a href="Products.php">Products</a></li>
-
-
+          <li><a href="products.php">Products</a></li>
         </ul>
       </div>
       <div class="col l3 m6 s12">
         <h6>Products</h6>
         <ul>
-          <li><a href="">Scale Printing Machine</a></li>
-          <li><a href="">Pen Printing Machine</a></li>
-          <li><a href="">Printing Machine</a></li>
-          <li><a href="">Laser Marking Machine</a></li>
+          <li><a href="scale-printing-machine.php">Scale Printing Machine</a></li>
+          <li><a href="pen-printing-machine.php">Pen Printing Machine</a></li>
+          <li><a href="productline.php">Printing Machine</a></li>
+          <li><a href="laser-marking-machine.php">Laser Marking Machine</a></li>
           <li><a href="all-products.php">ALL PRODUCTS</a></li>
 
         </ul>

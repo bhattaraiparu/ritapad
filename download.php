@@ -24,8 +24,8 @@
                 <span class="card-title">MTM Series</span>
             </div>
             <div class="card-action">
-              <a href="pdf/MTMseries.pdf" target="_blank">Series 1</a>
-              <a href="pdf/MTMseries1.pdf" target="_blank">Series 2</a>
+              <a href="./pdf/MTMseries.pdf" target="_blank">Series 1</a>
+              <a href="./pdf/mtm-series1.pdf" target="_blank">Series 2</a>
             </div>
           </div>
   </div>
@@ -61,7 +61,7 @@
             </div>
             <div class="card-action">
               <a href="pdf/MDMseries.pdf" target="_blank">Series1</a>
-              <a href="Optional-Attachement.pdf">Series2</a>
+              <a href="pdf/Optional-Attachement.pdf">Series2</a>
             </div>
           </div>
   </div>

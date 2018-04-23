@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row">
     <div class="col s12">
-    <h3>Laser Making Machine</h3>
+    <h3>Digital Printing Machine</h3>
     </div>
   </div>
 </div>

@@ -21,13 +21,13 @@
     <p class="text">To provide cost effective solutions of the highest quality standards to the industrial marking & decorating industry worldwide to create & develop long term partnerships with our valued customers <br> <br>To promote interactive management with integrity, corporate, social & environmental responsibility</p>
 
     <h3 class="sub-title">COMPANY BACKGROUND</h3>
-    <p class="text">The ritapad group was started to manufacture pad printing machines in india for the german market. with it"s commitment towards customer satisfaction and quality, the company today is the undisputed market leader with over 2500 installations in india & internationally & over 1000 customer-partners. continuous r & d efforts have lead to a range of over 50 cost-effective machines with infinite options for customisation to suit individual needs, a complete range of accessories & Consumabless; and several global & national patents</p>
+    <p class="text">The ritapad group was started to manufacture <a href="products.php">pad printing machines</a> in india for the german market. with it"s commitment towards customer satisfaction and quality, the company today is the undisputed market leader with over 2500 installations in india & internationally & over 1000 customer-partners. continuous r & d efforts have lead to a range of over 50 cost-effective <a href="machine-selection.php">machines</a> with infinite options for customisation to suit individual needs, a complete range of accessories & Consumabless; and several global & national patents</p>
 
     <h3 class="sub-title">QUALITY EMPHASIS</h3>
     <p class="text">The company has an independent quality assurance department headed by a senior level manager, who reports directly to the managing director. most modern norms of quality assurance & management are followed</p>
 
     <h3 class="sub-title">PRODUCT OFFERING</h3>
-    <p class="text">Pad printing & laser marking machines & systems. specialised machines and automatic systems built around these technologies</p>
+    <p class="text"><a href="productline.php">Pad printing</a> & <a href="laser-productline.php">laser marking machines</a> & systems. specialised machines and automatic systems built around these technologies</p>
 
     <h3 class="sub-title">LOCATION</h3>
     <p class="text">The head office, works, marketing office & training centre are strategically located in gurgaon, near the capital new delhi on over 12ooo square feet area, with the most modern and state of the art facilities</p>
