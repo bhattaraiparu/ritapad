@@ -73,7 +73,7 @@
                 <li><p><a href="mrv-60-rotary-pad-printing-machine.php">MLM 400X3 Print On ac Cover</a></p></li>
                 </ul>
 
-                <h3 class="sub-title">Pen Barrel Printing Machine</h3>
+                <h3 class="sub-title">PEN BARREL PRINTING MACHINE</h3>
                 <ul class="decimal">
                 <li><p><a href="penbarrel-printing-machine.php">MRV 60 Rotary Pad Printing Machine</a></p></li>
                 </ul>
@@ -81,7 +81,7 @@
                 <h3 class="sub-title">MARKING ON ANY PRODUCT</h3>
                 <ul class="decimal">
                 <li><p><a href="fibrelaser.php">Fibre Laser</a></p></li>
-                <li><p><a href="penbarrel-printing-machine.php">Printing On Periphery Of Cap With 180° Registration</a></p></li>
+                <li><p><a href="printing-on-periphery-cap-with-180-registration.php">Printing On Periphery Of Cap With 180° Registration</a></p></li>
                 </ul>
 
                 <h3 class="sub-title">PRINTING ON CONTINUOUS CARD BOARD ROLL</h3>
