@@ -36,10 +36,10 @@
     <h3 class="sub-title">Pads</h3>
     <ul>
       <li><a href="consumable-round-pads.php">Round Pads</a></li>
-      <li><a href="">Rectangular Pads </a></li>
-      <li><a href="">Square Pads</a></li>
-      <li><a href="">Special Pads</a></li>
-      <li><a href="">Longitudinal Pads </a></li>
+      <li><a href="consumable-rectangular-pads.php">Rectangular Pads </a></li>
+      <li><a href="consumable-square-pads.php">Square Pads</a></li>
+      <li><a href="consumable-special-pads.php">Special Pads</a></li>
+      <li><a href="consumable-longitudinal-pads.php">Longitudinal Pads</a></li>
     </ul>
   </div>
 
